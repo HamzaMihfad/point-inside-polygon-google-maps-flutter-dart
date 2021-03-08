@@ -10,8 +10,6 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 // orientation() and doIntersect()
 
 class PolygonPoint {
-  // Define Infinite (Using INT_MAX
-  // caused overflow problems)
   static const double infinity = 1.0 / 0.0;
 
   // Given three collinear points p, q, r,
