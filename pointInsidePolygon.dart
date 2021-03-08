@@ -3,6 +3,8 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 // A Dart program to check if a given point
 // lies inside a given polygon
+
+// How to check if two given line segments intersect: https://www.youtube.com/watch?v=wCR48FqkI4w
 // Refer https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
 // for explanation of functions onSegment(),
 // orientation() and doIntersect()
